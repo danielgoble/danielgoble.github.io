@@ -25,7 +25,7 @@ img {
 	position:relative;
 	font-family:Helvetica, Arial,  sans-serif;
 	font-size:32px;
-	color:#E23500;
+	color:#FF723F;
 	font-weight: normal;
 }
 
@@ -67,14 +67,14 @@ a img { border:none } /* Gets rid of IE's blue borders */
 
 
 a {
-	color:#E23500;
+	color:#FF723F;
 	text-decoration:none;
 	}
 
 p {
 	font-family:Helvetica, Arial,  sans-serif;
 	font-size:18px;
-	color:#B7B7B7;
+	color:#eaeaea;
 	line-height:28px;
 	font-weight: lighter;
 	margin-top: -5px;

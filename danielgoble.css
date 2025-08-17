@@ -16,7 +16,7 @@ body {
 
 
 img {
-	width: 100%;
+	width: 49%;
   height: auto;
   image-rendering: auto;
 }
@@ -30,7 +30,7 @@ img {
 	font-family:Helvetica, Arial,  sans-serif;
 	font-size:32px;
 	color:#5B94DD;
-	font-weight: normal;
+	font-weight:lighter;
 }
 
 #subtitle {
@@ -51,7 +51,7 @@ img {
 
 #HR1 {
 	position:relative;
-	width:100%;
+	width:98%;
 	height:1px;
 }
 

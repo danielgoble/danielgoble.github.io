@@ -29,7 +29,7 @@ img {
 	position:relative;
 	font-family:Helvetica, Arial,  sans-serif;
 	font-size:32px;
-	color:#FF723F;
+	color:#5B94DD;
 	font-weight: normal;
 }
 
@@ -71,7 +71,7 @@ a img { border:none } /* Gets rid of IE's blue borders */
 
 
 a {
-	color:#FF723F;
+	color:#5B94DD;
 	text-decoration:none;
 	}
 

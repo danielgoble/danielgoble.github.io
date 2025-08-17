@@ -1,5 +1,5 @@
 body {
-	background-color:#ffffff;
+	background-color:#050505;
  	margin-left:0px;
  	margin-top:0px;
 	margin-bottom:0px;
@@ -11,7 +11,7 @@ body {
 #container{
 	width:80%;
 	margin:auto;
-	max-width: 960px;
+	max-width: 480px;
 }
 
 
@@ -24,8 +24,8 @@ img {
 #title {
 	position:relative;
 	font-family:Helvetica, Arial,  sans-serif;
-	font-size:36px;
-	color:#5BACE3;
+	font-size:32px;
+	color:#E23500;
 	font-weight: normal;
 }
 
@@ -33,7 +33,7 @@ img {
 	position:relative;
 	font-family:Helvetica, Arial,  sans-serif;
 	font-size:26px;
-	color:#999999;
+	color:#B7B7B7;
 	font-weight: lighter;
 	margin-top:10px
 }
@@ -52,7 +52,7 @@ img {
 }
 
 hr {
-  background: #dddddd;
+  background: #222222;
   clear: both;
   float: none;
   width: 100%;
@@ -67,14 +67,14 @@ a img { border:none } /* Gets rid of IE's blue borders */
 
 
 a {
-	color:#5BACE3;
+	color:#E23500;
 	text-decoration:none;
 	}
 
 p {
 	font-family:Helvetica, Arial,  sans-serif;
 	font-size:18px;
-	color:#555555;
+	color:#B7B7B7;
 	line-height:28px;
 	font-weight: lighter;
 	margin-top: -5px;
@@ -84,7 +84,7 @@ p {
 h1 {
 	font-family:Helvetica, Arial,  sans-serif;
 	font-size:20px;
-	color:#555555;
+	color:#d3d3d3;
 	line-height:25px;
 	font-weight: normal;
 	margin-top: 30px;
@@ -94,7 +94,7 @@ h1 {
 h2 {
 	font-family:Helvetica, Arial,  sans-serif;
 	font-size:18px;
-	color:#ffffff;
+	color:#d3d3d3;
 	font-weight: lighter;
 	}
 
@@ -102,7 +102,7 @@ h2 {
 h3 {
 	font-family:Helvetica, Arial,  sans-serif;
 	font-size:18px;
-	color:#555555;
+	color:#d3d3d3;
 	font-weight: normal;
 	}
 

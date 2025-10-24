@@ -24,7 +24,7 @@ img {
 #title {
 	position:relative;
 	font-family:Helvetica, Arial,  sans-serif;
-	font-size:40px;
+	font-size:2em;
 	color:#6D6868;
 	font-weight: normal;
 }
@@ -73,12 +73,10 @@ a {
 
 p {
 	font-family:Helvetica, Arial,  sans-serif;
-	font-size:18px;
+	font-size:1.2em;
 	color:#6D6868;
-	line-height:28px;
+	line-height:1.6em;
 	font-weight: lighter;
-	margin-top: -5px;
-	margin-bottom: 20px;
 	}
 
 h1 {

@@ -23,7 +23,7 @@ img {
 #title {
 	position:relative;
 	font-family:Helvetica, Arial,  sans-serif;
-	font-size:2rem;
+	font-size:40px;
 	color:#6D6868;
 	font-weight: normal;
 }
@@ -72,9 +72,9 @@ a {
 
 p {
 	font-family:Helvetica, Arial,  sans-serif;
-	font-size:1.2rem;
+	font-size:24px;
 	color:#6D6868;
-	line-height:1.8rem;
+	line-height:36px;
 	font-weight: lighter;
 	}
 

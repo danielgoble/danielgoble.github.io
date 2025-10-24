@@ -1,5 +1,5 @@
 body {
-	background-color:#050505;
+	background-color:#FDFBFB;
  	margin-left:0px;
  	margin-top:0px;
 	margin-bottom:0px;
@@ -24,8 +24,8 @@ img {
 #title {
 	position:relative;
 	font-family:Helvetica, Arial,  sans-serif;
-	font-size:32px;
-	color:#5B94DD;
+	font-size:40px;
+	color:#6D6868;
 	font-weight: normal;
 }
 
@@ -67,14 +67,14 @@ a img { border:none } /* Gets rid of IE's blue borders */
 
 
 a {
-	color:#5B94DD;
+	color:#000000;
 	text-decoration:none;
 	}
 
 p {
 	font-family:Helvetica, Arial,  sans-serif;
 	font-size:18px;
-	color:#B7B7B7;
+	color:#6D6868;
 	line-height:28px;
 	font-weight: lighter;
 	margin-top: -5px;
@@ -84,7 +84,7 @@ p {
 h1 {
 	font-family:Helvetica, Arial,  sans-serif;
 	font-size:20px;
-	color:#d3d3d3;
+	color:#6D6868;
 	line-height:25px;
 	font-weight: normal;
 	margin-top: 30px;
